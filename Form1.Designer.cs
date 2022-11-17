@@ -1,5 +1,5 @@
 ﻿
-namespace HASH_file
+namespace KayGen
 {
     partial class Form1
     {
@@ -329,15 +329,15 @@ namespace HASH_file
             // 
             // imageList_KeyGen
             // 
-           
+
             this.imageList_KeyGen.TransparentColor = System.Drawing.Color.Transparent;
-            
+
             // 
             // imageList_XOR
             // 
-            
+
             this.imageList_XOR.TransparentColor = System.Drawing.Color.Transparent;
-           
+
             // 
             // textBox_password
             // 

@@ -12,7 +12,7 @@ using System.Collections;
 using System.Media; //для SystemSounds потрібно
 
 
-namespace HASH_file
+namespace KayGen
 {
     public partial class Form1 : Form
     {

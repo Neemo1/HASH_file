@@ -4,7 +4,7 @@ using System.Linq;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace HASH_file
+namespace KayGen
 {
     static class Program
     {
